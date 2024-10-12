@@ -1,0 +1,3 @@
+# azure-cognitiveservices-vision-computervision
+# msrest
+azure-ai-vision-imageanalysis
