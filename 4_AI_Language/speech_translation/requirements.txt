@@ -1,0 +1,3 @@
+azure-core
+azure-cognitiveservices-speech
+pydub

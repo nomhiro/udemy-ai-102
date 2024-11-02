@@ -1,0 +1,1 @@
+Azure is Microsoft's cloud computing platform, offering a wide range of services to build, deploy, and manage applications through a global network of data centers.

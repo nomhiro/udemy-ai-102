@@ -1,0 +1,3 @@
+azure-search-documents
+azure-identity
+openai
