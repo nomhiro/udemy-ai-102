@@ -1,2 +1,0 @@
-azure-core
-azure-ai-vision-imageanalysis
